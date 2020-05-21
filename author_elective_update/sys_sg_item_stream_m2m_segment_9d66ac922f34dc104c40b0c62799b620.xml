@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="DELETE">
+        <item_stream display_value="Tasks">53fae45a2f34dc104c40b0c62799b656</item_stream>
+        <segment display_value="LamNong_ItemSegment">c926ac922f34dc104c40b0c62799b61b</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>btphuc.eznw@gmail.com</sys_created_by>
+        <sys_created_on>2020-05-17 16:32:30</sys_created_on>
+        <sys_id>9d66ac922f34dc104c40b0c62799b620</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_9d66ac922f34dc104c40b0c62799b620</sys_update_name>
+        <sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-05-17 16:51:15</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</application>
+        <file_path/>
+        <instance_id>c5759d6ddbc16f043353f22ebf961940</instance_id>
+        <instance_name>dev72874</instance_name>
+        <name>sys_sg_item_stream_m2m_segment_9d66ac922f34dc104c40b0c62799b620</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment"><sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE"><item_stream display_value="Tasks">53fae45a2f34dc104c40b0c62799b656</item_stream><segment display_value="LamNong_ItemSegment">c926ac922f34dc104c40b0c62799b61b</segment><sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name><sys_created_by>btphuc.eznw@gmail.com</sys_created_by><sys_created_on>2020-05-17 16:32:30</sys_created_on><sys_id>9d66ac922f34dc104c40b0c62799b620</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package><sys_policy/><sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope><sys_update_name>sys_sg_item_stream_m2m_segment_9d66ac922f34dc104c40b0c62799b620</sys_update_name><sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by><sys_updated_on>2020-05-17 16:51:15</sys_updated_on></sys_sg_item_stream_m2m_segment></record_update>]]></payload>
+        <payload_hash>691711211</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>f8637ace2f789c104c40b0c62799b683</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>btphuc.eznw@gmail.com</sys_created_by>
+        <sys_created_on>2020-05-17 16:51:15</sys_created_on>
+        <sys_id>591b6c5a2f34dc104c40b0c62799b651</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172238bfa680000001</sys_recorded_at>
+        <sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-05-17 16:51:15</sys_updated_on>
+        <type>Item Stream M2M Segment</type>
+        <update_guid>111b6c5ac734dc10871f5122ecabd751</update_guid>
+        <update_guid_history>111b6c5ac734dc10871f5122ecabd751:691711211,2ec668d2d434dc1089d737b26db946d2:-699571855,2ec668d2d434dc1089d737b26db946d2:-699571855</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>btphuc.eznw@gmail.com</sys_created_by>
+        <sys_created_on>2020-05-17 16:54:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_stream_m2m_segment">sys_sg_item_stream_m2m_segment</sys_db_object>
+        <sys_id>0a3afaaf74034f4a8108570abf930ec4</sys_id>
+        <sys_metadata>9d66ac922f34dc104c40b0c62799b620</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope>
+        <sys_scope_delete display_value="">131d0d0e9abf4d08a7c5783b8da55699</sys_scope_delete>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_9d66ac922f34dc104c40b0c62799b620</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_stream_m2m_segment_9d66ac922f34dc104c40b0c62799b620">591b6c5a2f34dc104c40b0c62799b651</sys_update_version>
+        <sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-05-17 16:54:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

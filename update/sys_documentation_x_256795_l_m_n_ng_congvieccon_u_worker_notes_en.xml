@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_worker_notes" label="Ghi Chú" language="en" table="x_256795_l_m_n_ng_congvieccon">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_worker_notes</element>
+            <help/>
+            <hint/>
+            <label>Ghi Chú</label>
+            <language>en</language>
+            <name>x_256795_l_m_n_ng_congvieccon</name>
+            <plural>Ghi Chús</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>btphuc.eznw@gmail.com</sys_created_by>
+            <sys_created_on>2020-05-19 06:41:46</sys_created_on>
+            <sys_id>2cc238fe2f7c50504c40b0c62799b607</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Ghi Chú</sys_name>
+            <sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope>
+            <sys_update_name>sys_documentation_x_256795_l_m_n_ng_congvieccon_u_worker_notes_en</sys_update_name>
+            <sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by>
+            <sys_updated_on>2020-05-19 06:41:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

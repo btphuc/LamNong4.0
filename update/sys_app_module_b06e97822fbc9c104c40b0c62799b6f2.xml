@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Làm Nông 4.0">94c77a462fb89c104c40b0c62799b691</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter table="alm_consumable">location.parent=79ddfa8e2fb89c104c40b0c62799b69e^EQ<item display_table="cmn_location" display_value="Trang Trại Tiến Nông" endquery="false" field="location.parent" goto="false" newquery="false" operator="=" or="false" value="79ddfa8e2fb89c104c40b0c62799b69e"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Kho Hàng</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>alm_consumable</name>
+        <order>250</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-17 11:17:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b06e97822fbc9c104c40b0c62799b6f2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Kho Hàng</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope>
+        <sys_update_name>sys_app_module_b06e97822fbc9c104c40b0c62799b6f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-20 09:42:01</sys_updated_on>
+        <timeline_page/>
+        <title>Kho Hàng</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

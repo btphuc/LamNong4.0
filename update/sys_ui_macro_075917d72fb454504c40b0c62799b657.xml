@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_macro">
+    <sys_ui_macro action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <description/>
+        <media_type/>
+        <name>nhat_ky</name>
+        <scoped_name>x_256795_l_m_n_ng_nhat_ky</scoped_name>
+        <sys_class_name>sys_ui_macro</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-21 08:06:56</sys_created_on>
+        <sys_id>075917d72fb454504c40b0c62799b657</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>nhat_ky</sys_name>
+        <sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope>
+        <sys_update_name>sys_ui_macro_075917d72fb454504c40b0c62799b657</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-21 08:06:56</sys_updated_on>
+        <xml><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+  <img src="nhat_ky.jpg" width="715" height="889"/>
+</j:jelly>]]></xml>
+    </sys_ui_macro>
+</record_update>

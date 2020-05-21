@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets/>
+        <data_item/>
+        <display_feed_count>true</display_feed_count>
+        <hide_header>false</hide_header>
+        <orientation>vertical</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>btphuc.eznw@gmail.com</sys_created_by>
+        <sys_created_on>2020-05-17 15:38:50</sys_created_on>
+        <sys_id>988a90122ff0dc104c40b0c62799b618</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>My Task</sys_name>
+        <sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope>
+        <sys_update_name>sys_sg_icon_section_988a90122ff0dc104c40b0c62799b618</sys_update_name>
+        <sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-05-18 03:44:42</sys_updated_on>
+        <table/>
+        <title>My Task</title>
+        <visible_condition/>
+    </sys_sg_icon_section>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="DELETE">
+        <active>true</active>
+        <category/>
+        <format/>
+        <height/>
+        <image/>
+        <name>task-icon-14.png</name>
+        <size_bytes/>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>btphuc.eznw@gmail.com</sys_created_by>
+        <sys_created_on>2020-05-19 13:58:59</sys_created_on>
+        <sys_id>fcb6de7e2fb490504c40b0c62799b6b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>task-icon-14.png</sys_name>
+        <sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope>
+        <sys_update_name>db_image_fcb6de7e2fb490504c40b0c62799b6b8</sys_update_name>
+        <sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-05-19 13:58:59</sys_updated_on>
+        <thumbnail/>
+        <width/>
+    </db_image>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</application>
+        <file_path/>
+        <instance_id>c5759d6ddbc16f043353f22ebf961940</instance_id>
+        <instance_name>dev72874</instance_name>
+        <name>db_image_fcb6de7e2fb490504c40b0c62799b6b8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image"><db_image action="INSERT_OR_UPDATE"><active>true</active><category/><format/><height/><image/><name>task-icon-14.png</name><size_bytes/><sys_class_name>db_image</sys_class_name><sys_created_by>btphuc.eznw@gmail.com</sys_created_by><sys_created_on>2020-05-19 13:58:59</sys_created_on><sys_id>fcb6de7e2fb490504c40b0c62799b6b8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>task-icon-14.png</sys_name><sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package><sys_policy/><sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope><sys_update_name>db_image_fcb6de7e2fb490504c40b0c62799b6b8</sys_update_name><sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by><sys_updated_on>2020-05-19 13:58:59</sys_updated_on><thumbnail/><width/></db_image></record_update>]]></payload>
+        <payload_hash>507477447</payload_hash>
+        <record_name>task-icon-14.png</record_name>
+        <reverted_from/>
+        <source>f8637ace2f789c104c40b0c62799b683</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>btphuc.eznw@gmail.com</sys_created_by>
+        <sys_created_on>2020-05-19 13:58:59</sys_created_on>
+        <sys_id>01d692be2fb490504c40b0c62799b67d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1722d3af91f0000001</sys_recorded_at>
+        <sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-05-19 13:58:59</sys_updated_on>
+        <type>Images</type>
+        <update_guid>09d692be8fb4905007ea7ce60ccfc17c</update_guid>
+        <update_guid_history>09d692be8fb4905007ea7ce60ccfc17c:507477447</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="task-icon-14.png">27071abe2fb490504c40b0c62799b679</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>btphuc.eznw@gmail.com</sys_created_by>
+        <sys_created_on>2020-05-19 13:59:57</sys_created_on>
+        <sys_db_object display_value="" name="db_image">db_image</sys_db_object>
+        <sys_id>53830dd2f8e140609d6caa94c8fa1900</sys_id>
+        <sys_metadata>fcb6de7e2fb490504c40b0c62799b6b8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>task-icon-14.png</sys_name>
+        <sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope>
+        <sys_scope_delete display_value="">131d0d0e9abf4d08a7c5783b8da55699</sys_scope_delete>
+        <sys_update_name>db_image_fcb6de7e2fb490504c40b0c62799b6b8</sys_update_name>
+        <sys_update_version display_value="db_image_fcb6de7e2fb490504c40b0c62799b6b8">01d692be2fb490504c40b0c62799b67d</sys_update_version>
+        <sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-05-19 13:59:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

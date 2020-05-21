@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_calendar_screen">
+    <sys_sg_calendar_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon display_value="calendar-alt">1eb8522273812300a26e12562ef6a717</icon>
+        <name>Lịch sử</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_calendar_screen</sys_class_name>
+        <sys_created_by>btphuc.eznw@gmail.com</sys_created_by>
+        <sys_created_on>2020-05-17 16:29:29</sys_created_on>
+        <sys_id>7816e8922f34dc104c40b0c62799b6a5</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Lịch sử</sys_name>
+        <sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope>
+        <sys_update_name>sys_sg_calendar_screen_7816e8922f34dc104c40b0c62799b6a5</sys_update_name>
+        <sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-05-19 07:01:59</sys_updated_on>
+    </sys_sg_calendar_screen>
+</record_update>

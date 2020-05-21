@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Công Việc" max_length="40" name="x_256795_l_m_n_ng_congviec" sizeclass="4" type="collection">
+        <element attributes="pdf_cell_type=image" label="Nhật Ký Trồng Trọt" max_length="40" name="nh_t_k_tr_ng_tr_t" type="user_image"/>
+        <element attributes="encode_utf8=false" label="Quản Lý" max_length="32" name="u_quan_ly" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Sản Phẩm" max_length="32" name="u_san_pham" reference="cmdb_consumable_product_model" type="reference"/>
+    </element>
+</database>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Complete this task">cb97107e2ff850504c40b0c62799b644</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Hoàn Thành</label>
+        <location>footer</location>
+        <name>Hoàn Thành</name>
+        <order>10</order>
+        <parent>e70f13de2fb010504c40b0c62799b63f</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>btphuc.eznw@gmail.com</sys_created_by>
+        <sys_created_on>2020-05-19 06:23:03</sys_created_on>
+        <sys_id>267ee07a2f7c50504c40b0c62799b6db</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Hoàn Thành</sys_name>
+        <sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope>
+        <sys_update_name>sys_sg_button_instance_267ee07a2f7c50504c40b0c62799b6db</sys_update_name>
+        <sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-05-20 03:32:55</sys_updated_on>
+        <table>x_256795_l_m_n_ng_congvieccon</table>
+    </sys_sg_button_instance>
+</record_update>

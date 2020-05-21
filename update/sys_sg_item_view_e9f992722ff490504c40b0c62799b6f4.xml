@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item/>
+        <dependency_fields>photo-42257,state-45538,short_description-45539</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":14,"Bottom":16},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Image","Margin":{"Right":16},"studio_template_field_id":"E1","CornerRadius":5,"Height":50,"Width":50,"Scaling":"Fill","CellId":"photo","Id":42257},{"Type":"ViewGroup","Margin":{},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","studio_template_field_id":"E2","TextColor":"#333e3f","TextAlignment":"Center","MaxLines":1,"CornerRadius":5,"BackgroundColor":"#f1f1f1","Height":21,"Width":100,"Font":{"Weight":"regular","Size":15},"CellId":"state","Id":45538},{"Type":"Text","Margin":{"Top":4},"studio_template_field_id":"E3","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":14},"CellId":"short_description","Id":45539},{"Type":"Text","Margin":{"Top":4},"studio_template_field_id":"E4","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":45540}],"Id":12260}],"studio_card_id":"6a08b23023052300a8ed7f4fc7bf6558","Id":28090}</item_view_json>
+        <name>Farm task custom layout</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>btphuc.eznw@gmail.com</sys_created_by>
+        <sys_created_on>2020-05-19 14:13:12</sys_created_on>
+        <sys_id>e9f992722ff490504c40b0c62799b6f4</sys_id>
+        <sys_mod_count>23</sys_mod_count>
+        <sys_name>Farm task custom layout</sys_name>
+        <sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope>
+        <sys_update_name>sys_sg_item_view_e9f992722ff490504c40b0c62799b6f4</sys_update_name>
+        <sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-05-20 04:36:44</sys_updated_on>
+        <table>x_256795_l_m_n_ng_congvieccon</table>
+        <ui_styles>590e245e2f34dc104c40b0c62799b620,3d4e249e2f34dc104c40b0c62799b685,656e649e2f34dc104c40b0c62799b6e2</ui_styles>
+    </sys_sg_item_view>
+</record_update>

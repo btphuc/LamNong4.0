@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Công Việc Con" max_length="40" name="x_256795_l_m_n_ng_congvieccon" sizeclass="6" type="collection">
+        <element label="Photo" max_length="100" name="photo" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Loại Công Việc" max_length="40" name="u_category" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Quản Lý" max_length="32" name="u_quan_ly" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Mục" max_length="40" name="u_sub_category" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element label="Ghi Chú" max_length="4000" name="u_worker_notes" type="string_full_utf8"/>
+    </element>
+</database>

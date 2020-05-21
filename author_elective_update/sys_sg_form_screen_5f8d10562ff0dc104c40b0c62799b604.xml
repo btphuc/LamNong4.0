@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon display_value="Farm tasks Icon">d78d10562ff0dc104c40b0c62799b600</icon>
+        <item_view display_value="Farm tasks Header Item View">db8d10562ff0dc104c40b0c62799b602</item_view>
+        <name>Farm tasks</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>btphuc.eznw@gmail.com</sys_created_by>
+        <sys_created_on>2020-05-17 15:52:08</sys_created_on>
+        <sys_id>5f8d10562ff0dc104c40b0c62799b604</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Farm tasks</sys_name>
+        <sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope>
+        <sys_update_name>sys_sg_form_screen_5f8d10562ff0dc104c40b0c62799b604</sys_update_name>
+        <sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-05-17 15:52:08</sys_updated_on>
+        <table>x_256795_l_m_n_ng_congvieccon</table>
+    </sys_sg_form_screen>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</application>
+        <file_path/>
+        <instance_id>c5759d6ddbc16f043353f22ebf961940</instance_id>
+        <instance_name>dev72874</instance_name>
+        <name>sys_sg_form_screen_5f8d10562ff0dc104c40b0c62799b604</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen"><sys_sg_form_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><data_item/><description/><dynamic_prefetch_count/><fetch_type>not_required</fetch_type><hide_filters>false</hide_filters><icon display_value="Farm tasks Icon">d78d10562ff0dc104c40b0c62799b600</icon><item_view display_value="Farm tasks Header Item View">db8d10562ff0dc104c40b0c62799b602</item_view><name>Farm tasks</name><roles_override/><sys_class_name>sys_sg_form_screen</sys_class_name><sys_created_by>btphuc.eznw@gmail.com</sys_created_by><sys_created_on>2020-05-17 15:52:08</sys_created_on><sys_id>5f8d10562ff0dc104c40b0c62799b604</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Farm tasks</sys_name><sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package><sys_policy/><sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope><sys_update_name>sys_sg_form_screen_5f8d10562ff0dc104c40b0c62799b604</sys_update_name><sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by><sys_updated_on>2020-05-17 15:52:08</sys_updated_on><table>x_256795_l_m_n_ng_congvieccon</table></sys_sg_form_screen></record_update>]]></payload>
+        <payload_hash>-66133362</payload_hash>
+        <record_name>Farm tasks</record_name>
+        <reverted_from/>
+        <source>f8637ace2f789c104c40b0c62799b683</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>btphuc.eznw@gmail.com</sys_created_by>
+        <sys_created_on>2020-05-17 15:52:08</sys_created_on>
+        <sys_id>578d10562ff0dc104c40b0c62799b607</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1722355dbe50000001</sys_recorded_at>
+        <sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-05-17 15:52:08</sys_updated_on>
+        <type>Form Screen</type>
+        <update_guid>5f8d1056eaf0dc101b2ffa1be9e85006</update_guid>
+        <update_guid_history>5f8d1056eaf0dc101b2ffa1be9e85006:-66133362</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>btphuc.eznw@gmail.com</sys_created_by>
+        <sys_created_on>2020-05-18 03:44:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_form_screen">sys_sg_form_screen</sys_db_object>
+        <sys_id>030d39ddd8274d1a830c4d94d3f24171</sys_id>
+        <sys_metadata>5f8d10562ff0dc104c40b0c62799b604</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Farm tasks</sys_name>
+        <sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope>
+        <sys_scope_delete display_value="">131d0d0e9abf4d08a7c5783b8da55699</sys_scope_delete>
+        <sys_update_name>sys_sg_form_screen_5f8d10562ff0dc104c40b0c62799b604</sys_update_name>
+        <sys_update_version display_value="sys_sg_form_screen_5f8d10562ff0dc104c40b0c62799b604">578d10562ff0dc104c40b0c62799b607</sys_update_version>
+        <sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-05-18 03:44:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

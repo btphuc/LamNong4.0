@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="lamNong_ItemStream">a28ca0da2f34dc104c40b0c62799b6bf</item_stream>
+        <segment display_value="LamNong_ItemSegment">c926ac922f34dc104c40b0c62799b61b</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>btphuc.eznw@gmail.com</sys_created_by>
+        <sys_created_on>2020-05-17 16:58:10</sys_created_on>
+        <sys_id>8d8cacda2f34dc104c40b0c62799b69a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_8d8cacda2f34dc104c40b0c62799b69a</sys_update_name>
+        <sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-05-17 16:58:10</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

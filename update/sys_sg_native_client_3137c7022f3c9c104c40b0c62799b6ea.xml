@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_native_client">
+    <sys_sg_native_client action="INSERT_OR_UPDATE">
+        <geolocation_enabled>false</geolocation_enabled>
+        <name>LamNong Client</name>
+        <navigation display_value="LamNong Nav">7b4703422f3c9c104c40b0c62799b628</navigation>
+        <offline_enabled>false</offline_enabled>
+        <order>10</order>
+        <required_roles>x_256795_l_m_n_ng.ln_worker</required_roles>
+        <sys_class_name>sys_sg_native_client</sys_class_name>
+        <sys_created_by>btphuc.eznw@gmail.com</sys_created_by>
+        <sys_created_on>2020-05-17 09:35:53</sys_created_on>
+        <sys_id>3137c7022f3c9c104c40b0c62799b6ea</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>LamNong Client</sys_name>
+        <sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope>
+        <sys_update_name>sys_sg_native_client_3137c7022f3c9c104c40b0c62799b6ea</sys_update_name>
+        <sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-05-17 09:55:06</sys_updated_on>
+        <type>request</type>
+    </sys_sg_native_client>
+</record_update>

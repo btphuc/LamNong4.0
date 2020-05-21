@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Nhat Ky" section_id="2ccadf5b2fb454504c40b0c62799b605" sys_domain="global" table="x_256795_l_m_n_ng_congviec" version="3" view="">
+        <sys_ui_section action="DELETE">
+            <caption>Nhat Ky</caption>
+            <header>false</header>
+            <name>x_256795_l_m_n_ng_congviec</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-21 08:12:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2ccadf5b2fb454504c40b0c62799b605</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Nhat Ky</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope>
+            <sys_update_name>sys_ui_section_2ccadf5b2fb454504c40b0c62799b605</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-21 08:12:43</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</application>
+        <file_path/>
+        <instance_id>c5759d6ddbc16f043353f22ebf961940</instance_id>
+        <instance_name>dev72874</instance_name>
+        <name>sys_ui_section_2ccadf5b2fb454504c40b0c62799b605</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Nhat Ky" section_id="2ccadf5b2fb454504c40b0c62799b605" sys_domain="global" table="x_256795_l_m_n_ng_congviec" version="3" view=""><sys_ui_section action="INSERT_OR_UPDATE"><caption>Nhat Ky</caption><header>false</header><name>x_256795_l_m_n_ng_congviec</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-21 08:12:43</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2ccadf5b2fb454504c40b0c62799b605</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Nhat Ky</sys_name><sys_overrides/><sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package><sys_policy/><sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope><sys_update_name>sys_ui_section_2ccadf5b2fb454504c40b0c62799b605</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-21 08:12:43</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1209703132</payload_hash>
+        <record_name>Công Việc</record_name>
+        <reverted_from/>
+        <source>f8637ace2f789c104c40b0c62799b683</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-21 09:17:09</sys_created_on>
+        <sys_id>50896b132f3854504c40b0c62799b6e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1723685abab0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-21 09:17:09</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>18896b13a9385450092a2f0229da85e3</update_guid>
+        <update_guid_history>18896b13a9385450092a2f0229da85e3:-1209703132,e6496b13903854506b3772289ef6d602:-494298026,0fdad39bfdb4545033c689413f029ea2:708196927</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-21 09:17:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>024fbf4d91b546dc9087d095a8b85ed9</sys_id>
+        <sys_metadata>2ccadf5b2fb454504c40b0c62799b605</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Nhat Ky</sys_name>
+        <sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package>
+        <sys_parent display_value="Công Việc">9e7398562fb0dc104c40b0c62799b64a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope>
+        <sys_scope_delete display_value="">131d0d0e9abf4d08a7c5783b8da55699</sys_scope_delete>
+        <sys_update_name>sys_ui_section_2ccadf5b2fb454504c40b0c62799b605</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_2ccadf5b2fb454504c40b0c62799b605">50896b132f3854504c40b0c62799b6e4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-21 09:17:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

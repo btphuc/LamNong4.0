@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"f24d","Name":"icon-Clone","FontColor":"#54AC98","BackgroundColor":"#54AC98"}</icon>
+        <name>Task detail Icon</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>btphuc.eznw@gmail.com</sys_created_by>
+        <sys_created_on>2020-05-18 05:55:18</sys_created_on>
+        <sys_id>1a8e5f5e2fb010504c40b0c62799b61d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task detail Icon</sys_name>
+        <sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope>
+        <sys_update_name>sys_sg_icon_1a8e5f5e2fb010504c40b0c62799b61d</sys_update_name>
+        <sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-05-18 05:55:18</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

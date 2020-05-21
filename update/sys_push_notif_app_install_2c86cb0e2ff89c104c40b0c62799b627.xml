@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <last_registered_on>2020-05-17 09:44:39</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>btphuc.eznw@gmail.com</sys_created_by>
+        <sys_created_on>2020-05-17 09:31:50</sys_created_on>
+        <sys_id>2c86cb0e2ff89c104c40b0c62799b627</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>dWm2L1gAGQ8:APA91bEARNVueAezOt-9h_h4rDv5yaPUWg_SAtLXHXvbbKSbhFx5YD6PIblrrdeXQQNmaaTQI8KQBXWjN96D_tQbxQR_POvgjQLH-nXRZlI7ZppwI3BgyRGjSVQP6oHnpePiLg62aLuR</sys_name>
+        <sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Request Application">ac7f61d273122300d63a566a4cf6a78b</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_2c86cb0e2ff89c104c40b0c62799b627</sys_update_name>
+        <sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-05-17 09:44:48</sys_updated_on>
+        <sys_user_id display_value="Phuc Bui">fb57b53d2f305c104c40b0c62799b688</sys_user_id>
+        <token>dWm2L1gAGQ8:APA91bEARNVueAezOt-9h_h4rDv5yaPUWg_SAtLXHXvbbKSbhFx5YD6PIblrrdeXQQNmaaTQI8KQBXWjN96D_tQbxQR_POvgjQLH-nXRZlI7ZppwI3BgyRGjSVQP6oHnpePiLg62aLuR</token>
+    </sys_push_notif_app_install>
+</record_update>

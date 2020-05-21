@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_calendar_screen">
+    <sys_sg_calendar_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon display_value="Tasks by date Icon">35136c5e2ff0dc104c40b0c62799b60b</icon>
+        <name>Tasks by date</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_calendar_screen</sys_class_name>
+        <sys_created_by>btphuc.eznw@gmail.com</sys_created_by>
+        <sys_created_on>2020-05-17 16:16:28</sys_created_on>
+        <sys_id>8e13a05e2ff0dc104c40b0c62799b6a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tasks by date</sys_name>
+        <sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope>
+        <sys_update_name>sys_sg_calendar_screen_8e13a05e2ff0dc104c40b0c62799b6a0</sys_update_name>
+        <sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-05-17 16:16:28</sys_updated_on>
+    </sys_sg_calendar_screen>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</application>
+        <file_path/>
+        <instance_id>c5759d6ddbc16f043353f22ebf961940</instance_id>
+        <instance_name>dev72874</instance_name>
+        <name>sys_sg_calendar_screen_8e13a05e2ff0dc104c40b0c62799b6a0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_calendar_screen"><sys_sg_calendar_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><description/><dynamic_prefetch_count/><fetch_type>not_required</fetch_type><hide_filters>false</hide_filters><icon display_value="Tasks by date Icon">35136c5e2ff0dc104c40b0c62799b60b</icon><name>Tasks by date</name><roles_override/><sys_class_name>sys_sg_calendar_screen</sys_class_name><sys_created_by>btphuc.eznw@gmail.com</sys_created_by><sys_created_on>2020-05-17 16:16:28</sys_created_on><sys_id>8e13a05e2ff0dc104c40b0c62799b6a0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Tasks by date</sys_name><sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package><sys_policy/><sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope><sys_update_name>sys_sg_calendar_screen_8e13a05e2ff0dc104c40b0c62799b6a0</sys_update_name><sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by><sys_updated_on>2020-05-17 16:16:28</sys_updated_on></sys_sg_calendar_screen></record_update>]]></payload>
+        <payload_hash>-1979109713</payload_hash>
+        <record_name>Tasks by date</record_name>
+        <reverted_from/>
+        <source>f8637ace2f789c104c40b0c62799b683</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>btphuc.eznw@gmail.com</sys_created_by>
+        <sys_created_on>2020-05-17 16:16:28</sys_created_on>
+        <sys_id>2f13205e2ff0dc104c40b0c62799b66c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172236c219f0000001</sys_recorded_at>
+        <sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-05-17 16:16:28</sys_updated_on>
+        <type>Calendar screen</type>
+        <update_guid>2713205ee3f0dc10fb1df2e3c449ec6c</update_guid>
+        <update_guid_history>2713205ee3f0dc10fb1df2e3c449ec6c:-1979109713</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>btphuc.eznw@gmail.com</sys_created_by>
+        <sys_created_on>2020-05-18 03:56:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_calendar_screen">sys_sg_calendar_screen</sys_db_object>
+        <sys_id>687f8f67e6e84fe7aa670d431194f411</sys_id>
+        <sys_metadata>8e13a05e2ff0dc104c40b0c62799b6a0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tasks by date</sys_name>
+        <sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope>
+        <sys_scope_delete display_value="">131d0d0e9abf4d08a7c5783b8da55699</sys_scope_delete>
+        <sys_update_name>sys_sg_calendar_screen_8e13a05e2ff0dc104c40b0c62799b6a0</sys_update_name>
+        <sys_update_version display_value="sys_sg_calendar_screen_8e13a05e2ff0dc104c40b0c62799b6a0">2f13205e2ff0dc104c40b0c62799b66c</sys_update_version>
+        <sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-05-18 03:56:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

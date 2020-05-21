@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Complete this task">cb97107e2ff850504c40b0c62799b644</button>
+        <item_parameter display_value="Task Time">a7bba8b22f7c50504c40b0c62799b677</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>btphuc.eznw@gmail.com</sys_created_by>
+        <sys_created_on>2020-05-19 06:13:18</sys_created_on>
+        <sys_id>6c3cac762f7c50504c40b0c62799b6b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a7bba8b22f7c50504c40b0c62799b677</sys_name>
+        <sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_6c3cac762f7c50504c40b0c62799b6b3</sys_update_name>
+        <sys_updated_by>btphuc.eznw@gmail.com</sys_updated_by>
+        <sys_updated_on>2020-05-19 06:13:18</sys_updated_on>
+        <ui_parameter display_value="Thời gian">4288d87e2ff850504c40b0c62799b624</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

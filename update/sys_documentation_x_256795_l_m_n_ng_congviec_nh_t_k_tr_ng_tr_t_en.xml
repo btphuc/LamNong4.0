@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="nh_t_k_tr_ng_tr_t" label="Nhật Ký Trồng Trọt" language="en" table="x_256795_l_m_n_ng_congviec">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>nh_t_k_tr_ng_tr_t</element>
+            <help/>
+            <hint/>
+            <label>Nhật Ký Trồng Trọt</label>
+            <language>en</language>
+            <name>x_256795_l_m_n_ng_congviec</name>
+            <plural>Nhật Ký Trồng Trọts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-21 08:13:10</sys_created_on>
+            <sys_id>87dad39b2fb454504c40b0c62799b698</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Nhật Ký Trồng Trọt</sys_name>
+            <sys_package display_value="Làm Nông 4.0" source="x_256795_l_m_n_ng">b4637ace2f789c104c40b0c62799b681</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Làm Nông 4.0">b4637ace2f789c104c40b0c62799b681</sys_scope>
+            <sys_update_name>sys_documentation_x_256795_l_m_n_ng_congviec_nh_t_k_tr_ng_tr_t_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-21 08:13:10</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
